@@ -1,0 +1,52 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;;
+}
+.this{
+        display: flex;} 
+h1{
+    font-size: 50px;
+}
+.ten img{
+    width:80%;
+}
+.ten{
+    width: 50%; padding-left: 3px;
+}
+#net{
+    color: deeppink;
+}
+.button{
+    text-decoration:none; background-image:linear-gradient(deeppink, lightpink); padding:10px 40px; border-radius: 5px; 
+}
+.front{
+    background-image: url(photo/Frame\ 59.jpg); background-repeat: no-repeat;
+}
+.first{
+    box-shadow: 20px 10px 40px gray; width: 40%;
+    margin-left: 5%; margin-right: 5%;  border-radius: 50px;  margin-bottom: 5px;
+}
+h3{
+    text-align: center;
+}
+.first img{
+    width: 100%; border-radius: 20px;
+}
+.flexible{
+    display: flex;
+}
+p{
+    padding: 5%;
+}
+.header{ text-align: center;
+
+}
+footer{
+    color: gainsboro; background-color: black; margin-top:5%;
+}
+#foody{
+    color: orangered; font-size: 25px;
+}
+#netty{
+    color: darkseagreen; font-size: 25px;
+}
